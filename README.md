@@ -41,34 +41,6 @@ Here you’ll find projects developed throughout my learning journey, experiment
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-stats-extended.vercel.app/api?username=fabiomar1nho&theme=github_dark_dimmed&show_icons=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fabiomar1nho&theme=github_dark_dimmed&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 🐍 My Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiomar1nho/fabiomar1nho/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabiomar1nho/fabiomar1nho/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fabiomar1nho/fabiomar1nho/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ## 💡 Philosophy
 
 <div align="justify">
