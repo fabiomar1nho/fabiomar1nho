@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;About+Mar1nho;Building+smart+solutions;Automating+processes%2C+saving+time" alt="Typing SVG" />
+
 </div>
 
 ---
@@ -13,15 +14,13 @@ I’m an **IT Technician** and a **Systems Analysis and Development student**. I
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
-
+<div align="center" style="margin-top: 24px;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
 </div>
-
-<br>
 
 ---
 
@@ -33,7 +32,7 @@ Here you’ll find projects developed throughout my learning journey, experiment
 
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 16px;">
 
 🚀 **Projetos em desenvolvimento...**
 
