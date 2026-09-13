@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1500&color=338AFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!_;About+Mar1nho_;Building+smart+solutions_;Automating+processes%2C+saving+time_" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1500&color=338AFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!_;About+Mar1nho_;Building+smart+solutions_;Automating+processes%2C+saving+time_" alt="Typing SVG" width="100%" />
+</p>
 
 ---
 
