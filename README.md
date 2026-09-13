@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;About+Mar1nho;Building+smart+solutions;Automating+processes%2C+saving+time" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1500&color=338AFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!_;About+Mar1nho_;Building+smart+solutions_;Automating+processes%2C+saving+time_" alt="Typing SVG" />
 </div>
 
 ---
@@ -34,7 +33,7 @@ Here you’ll find projects developed throughout my learning journey, experiment
 
 <div align="center" style="margin-top: 16px;">
 
-🚀 **Projetos em desenvolvimento...**
+🚀 **in progress...**
 
 </div>
 
