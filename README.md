@@ -1,8 +1,8 @@
 <div align="center">
-  <table style="border: 1px solid #338AFF; border-radius: 8px; padding: 10px;">
+  <table align="center" style="border: 2px solid #338AFF; border-radius: 10px;">
     <tr>
-      <td align="center" style="border: none;">
-        <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1500&color=338AFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!_;About+Mar1nho_;Building+smart+solutions_;Automating+processes%2C+saving+time_" alt="Typing SVG" width="100%" />
+      <td align="center" valign="middle" style="padding: 20px; border: none; color: transparent;">
+        <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1500&color=338AFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!_;About+Mar1nho_;Building+smart+solutions_;Automating+processes%2C+saving+time_" alt="" style="color: transparent; display: block;" />
       </td>
     </tr>
   </table>
