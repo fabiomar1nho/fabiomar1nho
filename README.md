@@ -8,7 +8,11 @@
 
 ## 💻 About Me
 
+<div align="justify">
+
 I’m an **IT Technician** and a **Systems Analysis and Development student**. I’m interested in **process automation**, web development, and creating technology-driven solutions. Currently, I’m expanding my programming skills and working to turn ideas into simple, useful, and efficient tools.
+
+</div>
 
 <br>
 
@@ -24,7 +28,11 @@ I’m an **IT Technician** and a **Systems Analysis and Development student**. I
 
 ## 📌 Projects
 
+<div align="justify">
+
 Here you’ll find projects developed throughout my learning journey, experiments with new technologies, and solutions focused mainly on **development and automation**.
+
+</div>
 
 <div align="center">
 
@@ -55,7 +63,7 @@ Here you’ll find projects developed throughout my learning journey, experiment
 
 ## 💡 Philosophy
 
-<div align="center">
+<div align="justify">
 
 > **“Save time. Create solutions. Make things better.”**
 
