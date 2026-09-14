@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1500&color=58A6FF&center=true&vCenter=true&width=420&lines=Bem-vindo+ao+meu+perfil!_;Sobre+Mar1nho_;Construindo+solu%C3%A7%C3%B5es+inteligentes_;Automatizando+processos%2C+economizando+tempo_" alt="Bem-vindo ao meu perfil">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1500&color=58A6FF&center=true&vCenter=true&width=420&lines=Bem-vindo+ao+meu+perfil!_;Sobre+Mar1nho_;Construindo+solu%C3%A7%C3%B5es_;Automatizando+processos_" alt="Bem-vindo ao meu perfil">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=3" width="65%">
 
 </div>
 
