@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile!_;About+Mar1nho_;Building+smart+solutions_;Automating+processes%2C+saving+time_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+perfil!_;Sobre+Mar1nho_;Construindo+solu%C3%A7%C3%B5es+inteligentes_;Automatizando+processos%2C+economizando+tempo_" alt="SVG de Digitação" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=3&section=header" width="85%">
 
 </div>
 
-## 💻 About Me
+## 💻 Sobre Mim
 
 <div align="justify">
 
-I’m an **IT Technician** and a **Systems Analysis and Development student**. I’m interested in **process automation**, web development, **geoprocessing**, and creating technology-driven solutions. Currently, I’m expanding my programming skills and working to turn ideas into simple, useful, and efficient tools.
+Sou **Técnico em TI** e estudante de **Análise e Desenvolvimento de Sistemas**. Tenho interesse em **automação de processos**, desenvolvimento web, **geoprocessamento** e na criação de soluções baseadas em tecnologia. Atualmente, estou expandindo meus conhecimentos em programação e trabalhando para transformar ideias em ferramentas simples, úteis e eficientes.
 
 </div>
 
@@ -24,28 +24,27 @@ I’m an **IT Technician** and a **Systems Analysis and Development student**. I
 
 ---
 
-## 📌 Projects
+## 📌 Projetos
 
 <div align="justify">
 
-Here you’ll find projects developed throughout my learning journey, experiments with new technologies, and solutions focused mainly on **development and automation**.
+Aqui você encontrará projetos desenvolvidos ao longo da minha jornada de aprendizado, experimentos com novas tecnologias e soluções voltadas principalmente para **desenvolvimento e automação**.
 
-</div>
+> 🌐 **SITES**
 
-<div align="center" style="margin-top: 16px;">
+🛠️ [Extrator de Coordenadas UTM](https://fabiomar1nho.github.io/Extrator-de-Coordenadas-UTM/) 
 
-🚀 **in progress...**
+Aplicação web estática desenvolvida para agrimensores, engenheiros e analistas ambientais. Automatiza a extração de coordenadas UTM a partir de textos brutos, memoriais descritivos e relatórios técnicos, convertendo os dados em arquivos georreferenciados .KML e .CSV, compatíveis com o Google Earth e softwares GIS.
 
-</div>
 
 ---
 
-## 💡 Philosophy
+## 💡 Filosofia
 
 <div align="justify">
 
-> **“Save time. Create solutions. Make things better.”**
+> **“Economize tempo. Crie soluções. Faça as coisas melhores.”**
 
-If I can help you save time, see something from a new perspective, or simply make your day a little better, then it was worth it. 🚀
+Se eu puder ajudar você a economizar tempo, enxergar algo por uma nova perspectiva ou simplesmente tornar o seu dia um pouco melhor, então já valeu a pena. 🚀
 
 </div>
