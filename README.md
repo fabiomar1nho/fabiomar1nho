@@ -1,18 +1,16 @@
 <div align="center">
-  <table align="center" style="border: 2px solid #338AFF; border-radius: 10px;">
-    <tr>
-      <td align="center" valign="middle" style="padding: 20px; border: none; color: transparent; line-height: 0;">
-        <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1500&color=338AFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!_;About+Mar1nho_;Building+smart+solutions_;Automating+processes%2C+saving+time_" alt="" style="color: transparent; display: block; margin-bottom: -10px;" />
-      </td>
-    </tr>
-  </table>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile!_;About+Mar1nho_;Building+smart+solutions_;Automating+processes%2C+saving+time_" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=3&section=header" width="85%">
+
 </div>
 
 ## 💻 About Me
 
 <div align="justify">
 
-I’m an **IT Technician** and a **Systems Analysis and Development student**. I’m interested in **process automation**, web development, and creating technology-driven solutions. Currently, I’m expanding my programming skills and working to turn ideas into simple, useful, and efficient tools.
+I’m an **IT Technician** and a **Systems Analysis and Development student**. I’m interested in **process automation**, web development, **geoprocessing**, and creating technology-driven solutions. Currently, I’m expanding my programming skills and working to turn ideas into simple, useful, and efficient tools.
 
 </div>
 
