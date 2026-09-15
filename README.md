@@ -40,4 +40,4 @@ O Área de transferência lateral é uma extensão para Google Chrome (Manifest 
 
 <div align="justify">
 
-*"Economize o ritmo. Crie soluções. Faça as coisas melhores."*
+*"Economize tempo. Crie soluções. Melhore as coisas."*
