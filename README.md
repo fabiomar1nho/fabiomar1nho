@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&pause=1500&color=58A6FF&center=true&vCenter=true&width=420&lines=Bem-vindo+ao+meu+perfil!_;Sobre+Mar1nho_;Construindo+solu%C3%A7%C3%B5es_;Automatizando+processos_" alt="Bem-vindo ao meu perfil">
-
-</div>
-
 ## 💻 Sobre Mim
 
 <div align="justify">
@@ -30,10 +24,16 @@ Aqui você encontrará projetos desenvolvidos ao longo da minha jornada de apren
 
 > 🌐 **SITES**
 
-🛠️ [Extrator de Coordenadas UTM](https://fabiomar1nho.github.io/Extrator-de-Coordenadas-UTM/)
+• [Extrator de Coordenadas UTM](https://fabiomar1nho.github.io/Extrator-de-Coordenadas-UTM/)
 
 Aplicação web estática desenvolvida para agrimensores, engenheiros e analistas ambientais. Automatiza a extração de coordenadas UTM a partir de textos brutos, memoriais descritivos e relatórios técnicos, convertendo os dados em arquivos georreferenciados .KML e .CSV, compatíveis com o Google Earth e softwares GIS.
 [Repository](https://github.com/fabiomar1nho/Extrator-de-Coordenadas-UTM)
+
+> 🌟 **EXTENSÕES**
+
+• [Área de transferência lateral](https://github.com/fabiomar1nho/Area-de-transferencia-lateral)
+
+O Área de transferência lateral é uma extensão para Google Chrome (Manifest V3) que salva e organiza textos copiados diretamente no painel lateral. Possui captura automática em tempo real, adição de notas manuais, formatação rápida de texto, controle liga/desliga e exportação do histórico para TXT com armazenamento local e seguro.
 
 ---
 
